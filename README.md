@@ -1,6 +1,9 @@
 # [gi](https://gist.github.com/josugoar/237846ba8a3814166ed1e143c99197e1/)
 > [gitignore.io](https://www.toptal.com/developers/gitignore/) command line client with multiple interactive fuzzy finding selection and preview
 
+# [mistral.tmpl](https://gist.github.com/josugoar/d03770a62ac2ec40f57d82e1313e2c3c/)
+> [Mistral](https://mistral.ai/) prompt Go template for use in [LocalAI](https://localai.io/)
+
 # [mkdf](https://gist.github.com/josugoar/03bb2e7faf8865d4c9fc02a65ae1efaf/)
 > POSIX shell compliant utility that creates directories and files similar to combined mkdir and touch and inspired by [ad](https://github.com/tanrax/terminal-AdvancedNewFile/tree/master/)
 
