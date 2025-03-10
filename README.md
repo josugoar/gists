@@ -3,6 +3,9 @@
 ## [gi](https://gist.github.com/josugoar/237846ba8a3814166ed1e143c99197e1)
 > [gitignore.io](https://www.toptal.com/developers/gitignore/) command line client with multiple interactive fuzzy finding selection and preview
 
+## [lexisolve.py](https://gist.github.com/josugoar/444ee592091c4cd5b632e278f80e9fbb)
+>  [Lexicographical optimization](https://en.wikipedia.org/wiki/Lexicographic_optimization) with [Pyomo](https://pyomo.readthedocs.io/en/stable/) 
+
 ## [mistral.tmpl](https://gist.github.com/josugoar/d03770a62ac2ec40f57d82e1313e2c3c)
 > [Mistral](https://mistral.ai/) prompt Go template for use in [LocalAI](https://localai.io/)
 
