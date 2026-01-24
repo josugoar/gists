@@ -4,7 +4,7 @@
 > [gitignore.io](https://www.toptal.com/developers/gitignore/) command line client with multiple interactive fuzzy finding selection and preview
 
 ## [hwclient](https://gist.github.com/josugoar/b0ea751e22bd0b89090e6448b9013ad1)
->  Xilinx [hw_server](https://docs.amd.com/r/en-US/ug908-vivado-programming-debugging/Connecting-to-a-Hardware-Target-Using-hw_server/) [zrok](https://zrok.io/) proxy forwarded by [gost](https://gost.run/en/)
+>  Xilinx [hw_server](https://docs.amd.com/r/en-US/ug908-vivado-programming-debugging/Connecting-to-a-Hardware-Target-Using-hw_server/) [gost](https://gost.run/en/) forwarded [zrok](https://zrok.io/) proxy
 
 ## [lexisolve.py](https://gist.github.com/josugoar/444ee592091c4cd5b632e278f80e9fbb)
 >  [Lexicographical optimization](https://en.wikipedia.org/wiki/Lexicographic_optimization) with [Pyomo](https://pyomo.readthedocs.io/en/stable/) 
